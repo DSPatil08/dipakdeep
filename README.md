@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋 Hi, I'm Deepak Patil</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-<img aling="right" alt="coding" width="400" src="https://globalowls.com/wp-content/uploads/2023/07/What-are-the-benefits-of-AI-text-to-image-generators.png">
+<img aling="right" alt="coding" width="400" src="https://globalowls.com/wp-content/uploads/2023/07/What-are-the-benefits-of-AI-text-to-image-generators.png" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dspatil08&label=Profile%20views&color=0e75b6&style=flat" alt="dspatil08" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dspatil08&label=Profile%20views&color=0e75b6&style=flat" alt="dspatil08" /> </p>
 
 - 📫 How to reach me **deepakspatil08@gmail.com**
 
